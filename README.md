@@ -73,7 +73,7 @@ If the title and artist is missing:
 File Name: something.mp3
 ```
 
-The script will move the file to the 'Unknown Title' folder without changing its name.
+The script will move the file to the 'Unknown Artist' folder without changing its name.
 
 ```
 Destination Folder: ./managedMusic/Unknown Artist/
