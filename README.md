@@ -67,17 +67,17 @@ Destination Folder: ./managedMusic/John Doe/
 Renamed File: Beautiful Song - John Doe.mp3
 ```
 
-If the title is missing:
+If the title and artist is missing:
 
 ```
-File Name: unknown_title.mp3
+File Name: something.mp3
 ```
 
 The script will move the file to the 'Unknown Title' folder without changing its name.
 
 ```
-Destination Folder: ./managedMusic/Unknown Title/
-Renamed File: unknown_title.mp3
+Destination Folder: ./managedMusic/Unknown Artist/
+Renamed File: something.mp3          //original file name
 ```
 
 ## Caution
