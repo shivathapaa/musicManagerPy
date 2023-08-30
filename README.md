@@ -90,6 +90,6 @@ Renamed File: something.mp3          //original file name
 
 Also, you can use separateMp3Files.py for separating music files with a different extension.
 
-With these scripts, you can easily organize and rename your music files based on their metadata, creating a clean and structured music library. Enjoy your well-organized music collection!
+With these scripts, you can easily organize and rename your music files based on their metadata, creating a clean and structured music library. Enjoy your music!
 
 ---
