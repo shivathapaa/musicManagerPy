@@ -50,6 +50,8 @@ python musicFileManager.py
 
 - After the script completes, check the 'Type' of any files left in the 'mbMusic' folder. These files might not have been supported by the script and need manual processing.
 
+> The updated code is used in project [GUI-for-Music-Manager](https://github.com/shivathapaa/GUI-for-Music-Manager). Kindly check it out!
+
 ## Example
 
 Let's say you have the following music file in the 'mbMusic' folder:
